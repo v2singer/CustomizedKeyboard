@@ -8,6 +8,8 @@
 # 固件地址
 - [zmk固件](git@github.com:LXF-YZP/cake-zmk-config.git)
 
+以36配列为例进行构建:
+
 ## 元器件清单
 
 |名称       |   数量    |购买链接                                          |
@@ -15,12 +17,12 @@
 | pcb基板       |   2    | https://www.jlc.com/newOrder/#/pcb/pcbPlaceOrder                                          |
 | 轴体                           | 48      |                                                                                            |
 | 轴座          | 48     | 凯华轴座                                             |
-| 锂电池                     | 2     |                                                                                            |
-| 蓝牙芯片                | 1    | nice nano v2                                                                                   |
-| 螺柱 m2x4x3.5| 4    |     |                                                                                        |
+| 锂电池503450/1000毫安            | 2     |   https://item.taobao.com/item.htm?_u=r1hre4eh0cfa&id=678474541123&spm=a1z09.2.0.0.4ee62e8ddZPkRD                                                                                         |
+| nice nano v2主控                | 2    | https://item.taobao.com/item.htm?_u=r1hre4eh83a1&id=729260528560&spm=a1z09.2.0.0.4ee62e8dQMGRLh   |
+| 螺柱 m2x4x3.5| 12    |     |                                                                                        |
 | 螺丝   m2x4                | 4      |  |
 | 二极管          | 48     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=528155613240&_u=q1hre4eh412c                                                                        |
-| 按键开关          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=546724645617&_u=q1hre4eh5b12                                                                        |
+| reset开关          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=546724645617&_u=q1hre4eh5b12                                                                        |
 | 卧贴连接器          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=565715285795&_u=q1hre4eh267c                                                                        |
 | 拨动开关          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
 | 超薄卧贴端子          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=671868863106&_u=q1hre4eh5865                                                                        |
