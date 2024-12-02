@@ -31,15 +31,14 @@
 | 超薄卧贴端子          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=671868863106&_u=q1hre4eh5865                                                                        |
 
 ## nice nano v2主控对应针脚图
-![](pics/12.png)
 
-![](pics/13.png)
+针脚图请查看pics/12.png以及pics/13.png
+
 
 - 注意二极管方向
 
-![](pics/14.png)
+二极管方向请查看pics/14.png和pics/15.png
 
-![](pics/15.png)
 
 ## 外壳打印
 - 自己使用3D打印机进行打印，本人使用拓竹A1打印，效果不错。
