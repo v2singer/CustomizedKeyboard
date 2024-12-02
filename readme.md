@@ -27,6 +27,10 @@
 | 拨动开关          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.70352e8dhrJ7E7&id=557092773462&_u=q1hre4eh5b2e                                                                        |
 | 超薄卧贴端子          | 2     | https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dcmPRUr&id=671868863106&_u=q1hre4eh5865                                                                        |
 
+## nice nano v2主控对应针脚图
+![](pics/12.png)
+
+![](pics/13.png)
 ## 外壳打印
 - 自己使用3D打印机进行打印，本人使用拓竹A1打印，效果不错。
 
