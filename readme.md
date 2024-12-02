@@ -39,6 +39,8 @@
 
 二极管方向请查看pics/14.png和pics/15.png
 
+- 轨迹球模块使用的开源方案
+[轨迹球pcb](https://github.com/siderakb/pmw3610-pcb)
 
 ## 外壳打印
 - 自己使用3D打印机进行打印，本人使用拓竹A1打印，效果不错。
