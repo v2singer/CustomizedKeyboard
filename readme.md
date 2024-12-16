@@ -6,7 +6,7 @@
 
 
 # 固件地址
-- [zmk固件](git@github.com:LXF-YZP/cake-zmk-config.git)
+- [zmk固件](https://github.com/LXF-YZP/cake-zmk-config)
 
 以36配列为例进行构建:
 
